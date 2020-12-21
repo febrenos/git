@@ -1,0 +1,26 @@
+git clone http://                     -clona um projeto
+git add .                                    -adiciona um novo git
+git commit -m "atualizado" -nome que vc quer colocar
+git push                                   -apenas salva
+git pull                                     -atualizar um projeto ja salvo
+git push origin/master        -da origem para a nuvem
+git init                                      -inicializar o rep
+git checkout -b branch        -criar branch e o nome do lado
+
+// deletar branch local
+git push -d nomeBranch
+
+//deletar branch remota
+git push --delete nomeBranch
+
+//dar o push na branch
+git push -u origin nome
+
+//entrar na branch 
+git checkout nomebranch
+
+//subir uma branch
+git push -u origin nomebranch
+
+//puxar atualizacoes
+git pull
