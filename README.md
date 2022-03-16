@@ -1,6 +1,6 @@
 # infoGIT
 #### informacoes sobre o git
-```C
+```git
 //clona um projeto
 git clone http://
 //adiciona um novo git
