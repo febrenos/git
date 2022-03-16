@@ -14,13 +14,12 @@ Git is an form to save to the cloud from your pc
 3. git push
 
 #### clona um projeto (nuvem > pc)
-<p align="center">
-  <img src="./images/gitclone.png" width="550" title="hover text">
-</p>
+  <img src="./img/gitclone.png" width="550" title="hover text">
 ```
 git clone http://urlrepository
 ```
 #### adiciona um novo git
+  <img src="./img/gitBash.png" width="550" title="hover text">
 ```
 git add .
 ```
