@@ -1,5 +1,6 @@
 # infoGIT
 #### informacoes sobre o git
+```linux
 //clona um projeto
 git clone http://
 //adiciona um novo git
@@ -15,6 +16,7 @@ git push origin/master
 git init                                      
 //criar branch e o nome do lado
 git checkout -b branch        
+```
 
 // deletar branch local
 git push -d nomeBranch
