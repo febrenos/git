@@ -1,9 +1,11 @@
 # infoGIT
-Git is an form to save to the cloud from your pc
-- install: https://git-scm.com/downloads
-GitHub is a web site that you can see your files in cloud
-- create account: https://github.com/
 
+GitHub is a web site that you can see your files in cloud                                                                                                                       
+- create account: https://github.com/                                                                                                                                           
+ 
+Git is an form to save to the cloud from your pc                                                                                                                                 
+- install: https://git-scm.com/downloads
+                                                                                                                                                                                 
 ### Commands
 0. git clone https://urlrepository
 -
