@@ -17,7 +17,7 @@ Git is an  apk that for save to (the cloud > pc / pc > cloud)
 ### clona um projeto (nuvem > pc)
   <img src="./img/gitclone.PNG" width="350" title="hover text">
   <img src="./img/gitBash.png" width="350" title="hover text">
-- git clone http://urlrepository
+git clone http://urlrepository
 
 ### adiciona atualizacoes(pc > nuvem)
 - git add . (iniciar git)
