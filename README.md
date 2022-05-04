@@ -1,28 +1,29 @@
 # infoGIT
 
-GitHub is a web site that you can see your files in cloud                                                                                                                       
+GitHub is a web site that you can (see files in cloud)                                                                                                                       
 - create account: https://github.com/                                                                                                                                           
  
-Git is an form to save to the cloud from your pc                                                                                                                                 
+Git is an  apk that for save to (the cloud > pc / pc > cloud)                                                                                                                               
 - install: https://git-scm.com/downloads
 ------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                                                 
 ### Commands
-0. git clone https://urlrepository
--
-1. git add .
-2. git commit -m "example"
-3. git push
+1. git clone https://urlrepository
+
+2. git add .
+3. git commit -m "example"
+4. git push
                                                                                                                                                                                  
-------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                                                                                 
 ### clona um projeto (nuvem > pc)
   <img src="./img/gitclone.PNG" width="350" title="hover text">
-git clone http://urlrepository
-                                                                                                                                                                                 
-### adiciona um novo git
   <img src="./img/gitBash.png" width="350" title="hover text">
-git add .
-                                                                                                                                                                                 
+>> git clone http://urlrepository
+
+### adiciona atualizacoes(pc > nuvem)
+- git add . (iniciar git)
+- git commit -m "txt" (comentario)
+- git push (subir para gitHub)
+
 #### cometar sobre atualizacao
 ```
 git commit -m "atualizado"
