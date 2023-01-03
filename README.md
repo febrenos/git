@@ -39,36 +39,14 @@ git push origin/master
 git pull
 ```
 ------------------------------------------------------------------------------------------------------------------------------
-                                                                                                                                                                                 
-#### inicializar o rep                                                                                                                                                           
-```
-git init
-```
-#### criar branch e o nome do lado                                                                                                                                               
-```
-git checkout -b branch        
-```
-#### deletar branch local                                                                                                                                                       
-```
-git push -d nomeBranch
-```
-#### deletar branch remota                                                                                                                                                       
-```
-git push --delete nomeBranch
-```
-#### dar o push na branch                                                                                                                                                       
-```
-git push -u origin nome
-```
-#### entrar na branch                                                                                                                                                           
-```
-git checkout nomebranch
-```
-#### subir uma branch                                                                                                                                                           
-```
-git push -u origin nomebranch
-```
-#### puxar atualizacoes                                                                                                                                                         
-```
-git pull
+                                                                                                                                                                                
+git init (inicializar o rep)
+git checkout origin/master
+git checkout -b branch (criar branch)
+git push -d nomeBranch (deletar branch local)
+git push --delete nomeBranch (deletar branch remota)
+git push -u origin nome (dar o push na branch )
+git push -u origin nomebranch (subir uma branch)
+git pull (puxar atualizacoes)
+git checkout nameBranch (entrar na branch) ex: CW-569
 ```
