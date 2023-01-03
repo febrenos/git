@@ -40,6 +40,7 @@ git pull
 ```
 ------------------------------------------------------------------------------------------------------------------------------
                                                                                                                                                                                 
+```
 git init (inicializar o rep)
 git checkout origin/master
 git checkout -b branch (criar branch)
