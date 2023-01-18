@@ -3,6 +3,7 @@ git init (inicializar o rep)
 git branch (ver branch atual)
 git fetch -vp (atualizar)
 git checkout origin/master
+git reset --hard (back to last version)
 git checkout -b branch (criar branch)
 git push -d nomeBranch (deletar branch local)
 git push --delete nomeBranch (deletar branch remota)
