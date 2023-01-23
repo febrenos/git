@@ -1,4 +1,5 @@
 ```
+git reset --hard (reset alterations)
 git init (inicializar o rep)
 git branch (ver branch atual)
 git fetch -vp (atualizar)
