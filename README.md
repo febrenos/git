@@ -10,6 +10,7 @@ git push -d nomeBranch (deletar branch local)
 git push --delete nomeBranch (deletar branch remota)
 git push -u origin nome (dar o push na branch )
 git push -u origin nomebranch (subir uma branch)
+git push -f (sobrescreve) usado no community
 git pull (puxar atualizacoes)
 git checkout nameBranch (entrar na branch) ex: CW-569
 ```
