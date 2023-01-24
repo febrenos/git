@@ -1,7 +1,7 @@
 ```
 git reset --hard (reset alterations)
 git init (inicializar o rep)
-git branch (ver branch atual)
+git branch (ver branchs)
 git fetch -vp (atualizar)
 git checkout origin/master
 git reset --hard (back to last version)
@@ -13,6 +13,8 @@ git push -u origin nomebranch (subir uma branch)
 git push -f (sobrescreve) usado no community
 git pull (puxar atualizacoes)
 git checkout nameBranch (entrar na branch) ex: CW-569
+git checkout feature/retorna-historico-viagens
+git remote set-url origin "url.clone"
 ```
 
 ---
