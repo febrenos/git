@@ -1,3 +1,7 @@
+#### ABOUT
+- PR (pull request)
+- hotfix (fix fast an bug)
+
 ```
 git reset --hard (reset alterations)
 git init (inicializar o rep)
@@ -6,6 +10,7 @@ git fetch -vp (atualizar)
 git checkout origin/master
 git reset --hard (back to last version)
 git checkout -b branch (criar branch)
+git checkout -b nome -feature/EndpointHistoricoViagens
 git push -d nomeBranch (deletar branch local)
 git push --delete nomeBranch (deletar branch remota)
 git push -u origin nome (dar o push na branch )
@@ -15,6 +20,7 @@ git pull (puxar atualizacoes)
 git checkout nameBranch (entrar na branch) ex: CW-569
 git checkout feature/retorna-historico-viagens
 git remote set-url origin "url.clone"
+
 ```
 
 ---
