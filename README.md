@@ -6,7 +6,7 @@
 git reset --hard (reset alterations)
 git init (inicializar o rep)
 git branch (ver branchs)
-git fetch -vp (atualizar)
+git fetch -vp (atualizar branchs)
 git checkout origin/master
 git reset --hard (back to last version)
 git checkout -b branch (criar branch)
