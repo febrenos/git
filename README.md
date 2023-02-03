@@ -2,7 +2,7 @@
 - PR (pull request)
 - hotfix (fix fast an bug)
 
-#### 
+#### SSH
 ````
 git config -global user.name "febreno" 
 git config -global user.email "test@gmail.com" 
