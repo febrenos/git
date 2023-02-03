@@ -2,6 +2,22 @@
 - PR (pull request)
 - hotfix (fix fast an bug)
 
+#### 
+````
+git config -global user.name "febreno" 
+git config -global user.email "test@gmail.com" 
+git config user
+ssh-keygen
+cat .ssh/id_rsa.pub
+cd desktop
+cd ~
+ls -h
+ls -a
+cat .ssh/id_rsa.pub
+cd .ssh
+open .
+````
+
 ```
 git reset --hard (reset alterations)
 git init (inicializar o rep)
