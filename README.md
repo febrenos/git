@@ -19,6 +19,7 @@ open .
 (after: paste to github the new ssh)
 ````
 
+#### git bash
 ```
 git reset --hard (reset alterations)
 git init (inicializar o rep)
