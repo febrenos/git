@@ -16,6 +16,7 @@ ls -a
 cat .ssh/id_rsa.pub
 cd .ssh
 open .
+(after: paste to github the new ssh)
 ````
 
 ```
