@@ -28,7 +28,7 @@ git fetch -vp (atualizar branchs)
 git checkout origin/master
 git reset --hard (back to last version)
 git checkout -b branch (criar branch)
-git checkout -b -feature/EndpointHistoricoViagens
+git checkout -b feature/EndpointHistoricoViagens
 git push -d nomeBranch (deletar branch local)
 git push --delete nomeBranch (deletar branch remota)
 git push -u origin nome (dar o push na branch )
