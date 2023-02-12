@@ -4,9 +4,9 @@
 
 #### SSH
 ````
-git config -global user.name "febreno" 
-git config -global user.email "test@gmail.com" 
-git config user
+git config --global user.name "febreno" 
+git config --global user.email "test@gmail.com" 
+git config --list
 ssh-keygen
 cat .ssh/id_rsa.pub
 cd desktop
