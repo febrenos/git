@@ -24,6 +24,8 @@ open .
 git reset --hard (reset alterations)
 git init (inicializar o rep)
 git branch (ver branchs)
+git branch -r (remotes)
+git branch -a (all)
 git fetch -vp (atualizar branchs)
 git checkout origin/master
 git reset --hard (back to last version)
