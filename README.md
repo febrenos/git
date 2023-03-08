@@ -45,6 +45,13 @@ git remote set-url origin "url.clone"
 
 ```
 
+#### PUXAR ATUALIZACOES SEM DESFAZER A ATUAL
+```
+git stash -u // -u quando tem arquivos novos
+git pull
+git stash apply
+```
+
 ---
 # infoGIT
 
