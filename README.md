@@ -43,6 +43,9 @@ git checkout nameBranch (entrar na branch) ex: CW-569
 git checkout feature/retorna-historico-viagens
 git remote set-url origin "url.clone"
 
+
+git branch -m old-name new-name (change name branch)
+
 ```
 
 #### PUXAR ATUALIZACOES SEM DESFAZER A ATUAL
