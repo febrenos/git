@@ -48,6 +48,14 @@ git branch -m old-name new-name (change name branch)
 
 ```
 
+```
+git add .
+git commit -m 'test'
+git push
+
+git pull origin development
+```
+
 #### PUXAR ATUALIZACOES SEM DESFAZER A ATUAL
 ```
 git stash -u // -u quando tem arquivos novos
