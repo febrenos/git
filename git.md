@@ -78,9 +78,18 @@ git push
 ou
 git push origin/master
 ```
-#### atualizar um projeto ja salvo (nuvem > pc)
+#### Atualizar um projeto ja salvo (nuvem > pc)
 ```
 git pull
 ```
 ---
-                                                                                                                                                                            
+
+#### Subir alteracoes
+```
+git pull development
+git add .
+git commit -m 'test'
+git push
+```
+- criar pr para DEVELOPMENT
+- commitar alteraçoes                                                                                                                                               
