@@ -42,7 +42,7 @@ git pull origin development (puxar atualizacoes branch development)
 git checkout nameBranch (entrar na branch) ex: CW-569
 git checkout feature/retorna-historico-viagens
 git remote set-url origin "url.clone"
-
+git merge [branch] --allow-unrelated-histories
 ```
 #### Passar para um novo repositório
 ```
