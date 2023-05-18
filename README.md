@@ -43,10 +43,15 @@ git checkout nameBranch (entrar na branch) ex: CW-569
 git checkout feature/retorna-historico-viagens
 git remote set-url origin "url.clone"
 
-
-git branch -m old-name new-name (change name branch)
+```
+#### Passar para um novo repositório
+```
+git remote set-url origin "url.clone"
+```
 
 ```
+
+git remote set-url origin https://github.com/Control361/control361-front.git
 
 ```
 git add .
