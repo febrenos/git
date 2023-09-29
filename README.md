@@ -2,7 +2,7 @@
 - PR (pull request)
 - hotfix (fix fast an bug)
 
-#### SSH
+#### CUMMON
 ```
 git checkout -b feature/teste
 git pull origin development
