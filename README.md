@@ -3,6 +3,15 @@
 - hotfix (fix fast an bug)
 
 #### SSH
+```
+git checkout -b feature/teste
+git pull origin development
+git add .
+npm run dev
+npm run build
+```
+
+#### SSH
 ````
 git config --global user.name "febreno" 
 git config --global user.email "test@gmail.com" 
