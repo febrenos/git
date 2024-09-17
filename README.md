@@ -115,16 +115,14 @@ ou
 git push origin/master
 ```
 #### atualizar um projeto ja salvo (nuvem > pc)
-```
 git pull
 ```
----
 
 #### tenho 2 branchs e desejo passar as alteraçoes de uma para a outra, removendo tudo de diferente da outra
+
 ```
 git checkout main (acessar a branch que receberá as alteraçoes)
 git fetch origin
 git reset --hard origin/development
 ```
----
                                                                                                                                                                             
