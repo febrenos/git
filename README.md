@@ -124,5 +124,8 @@ git pull
 git checkout main (acessar a branch que receberá as alteraçoes)
 git fetch origin
 git reset --hard origin/development
+git add .
+git commit -m "merge"
+git push
 ```
                                                                                                                                                                             
