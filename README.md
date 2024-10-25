@@ -58,8 +58,6 @@ git merge [branch] --allow-unrelated-histories
 git remote set-url origin "url.clone"
 ```
 
-```
-
 git remote set-url origin https://github.com/Control361/control361-front.git
 
 ```
