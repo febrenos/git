@@ -70,6 +70,11 @@ git push
 git pull origin development
 ```
 
+#### VOLTAR PARA ÚLTIMO COMMIT
+```
+git reset --hard
+```
+
 #### PUXAR ATUALIZACOES SEM DESFAZER A ATUAL
 ```
 git stash -u // -u quando tem arquivos novos
