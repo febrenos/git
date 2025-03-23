@@ -10,9 +10,9 @@
 .shh
 ├── config (gerenciamento dos git)
 ├── fbaltran_meli
-├── fbaltran_meli.pub (a)
+├── fbaltran_meli.pub (arquivo com ssh para githuh)
 ├── febrenos
-├── febrenos.pub
+├── febrenos.pub (arquivo com ssh para githuh)
 └── known_hosts
 ```
 
