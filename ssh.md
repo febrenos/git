@@ -5,7 +5,7 @@
 - criar uma pasta **.ssh** (ela ficará oculta e para vizualizar no finder aperte ```cmd+shif+.``` ou no cmd ```ls -la ~/.ssh```)
 - ssh-keygen -t ed25519 -C "email_2@example.com" -f ~/.ssh/febrenos
 - ssh-keygen -t ed25519 -C "email_2@example.com" -f ~/.ssh/fbaltran_meli
-- Crie essa arquitetura fbaltran_meli, fbaltran_meli.pub, febrenos, febrenos.pub são gerados automaticamente pelo ssh 
+- Crie essa arquitetura fbaltran_meli, fbaltran_meli.pub, febrenos, febrenos.pub são gerados automaticamente pelo ssh:
 
 ```
 .shh
