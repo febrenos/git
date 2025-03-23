@@ -2,7 +2,7 @@
 - ter multiplos usuarios no github localmente
 
 ### Gerar e salvar a chave ssh
-- criar uma pasta ssh
+- criar uma pasta **.ssh** (elá ficará oculta e para vizualizar no finder aperte **cmd+shif+.**)
 - ssh-keygen -t ed25519 -C "email_2@example.com" -f ~/.ssh/febrenos
 - ssh-keygen -t ed25519 -C "email_2@example.com" -f ~/.ssh/fbaltran_meli
 
